@@ -55,7 +55,11 @@
  * has a distinct Github fork— the Source Code URL should just be the main
  * Marlin repository.
  */
+<<<<<<< HEAD
 #define SOURCE_CODE_URL "github.com/mriscoc/Marlin_Ender3v2/tree/bugfix-2.0.x-ManualMesh"		// M.A.R.C.
+=======
+//#define SOURCE_CODE_URL "github.com/MarlinFirmware/Marlin"
+>>>>>>> 46916d322e57743e1812fa588a0171669b8e8988
 
 /**
  * Default generic printer UUID.
