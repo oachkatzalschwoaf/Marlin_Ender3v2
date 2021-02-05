@@ -12,7 +12,7 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 
 ## Download compilated version of this firmware
 
-Download released versions of this firmware can be found on the [Releases page](https://github.com/mriscoc/Marlin_Ender3v2/releases).
+Released versions of this firmware can be found on the [Releases page](https://github.com/mriscoc/Marlin_Ender3v2/releases).
 
 ## Building Marlin 2.0
 
