@@ -38,7 +38,7 @@
 
 #include "../../inc/MarlinConfig.h"
 
-#if !IS_AT90USB && (defined(UBRRH) || defined(UBRR0H) || defined(UBRR1H) || defined(UBRR2H) || defined(UBRR3H))
+#if !defined(USBCON) && (defined(UBRRH) || defined(UBRR0H) || defined(UBRR1H) || defined(UBRR2H) || defined(UBRR3H))
 
 #include "MarlinSerial.h"
 #include "../../MarlinCore.h"
