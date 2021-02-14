@@ -5,7 +5,7 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/mriscoc/Marlin_Ender3v2.svg)
 [![Build Status](https://github.com/mriscoc/Marlin_Ender3v2/workflows/CI/badge.svg)](https://github.com/mriscoc/Marlin_Ender3v2/actions)
 
-<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+<img align="right" width=200 src="buildroot/share/pixmaps/Ender-3V2.jpg" />
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
