@@ -3,16 +3,16 @@
 ![GitHub](https://img.shields.io/github/license/mriscoc/Marlin_Ender3v2.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/mriscoc/Marlin_Ender3v2.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/mriscoc/Marlin_Ender3v2.svg)
-[![Build Status](https://github.com/mriscoc/Marlin_Ender3v2/workflows/CI/badge.svg?branch=bugfix-2.0.x)](https://github.com/mriscoc/Marlin_Ender3v2/actions)
+[![Build Status](https://github.com/mriscoc/Marlin_Ender3v2/workflows/CI/badge.svg)](https://github.com/mriscoc/Marlin_Ender3v2/actions)
 
-<img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+<img align="right" width=200 src="buildroot/share/pixmaps/Ender-3V2.jpg" />
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
 ## Download compilated version of this firmware
 
-Download released versions of this firmware can be found on the [Releases page](https://github.com/mriscoc/Marlin_Ender3v2/releases).
+Released versions of this firmware can be found on the [Releases page](https://github.com/mriscoc/Marlin_Ender3v2/releases).
 
 ## Building Marlin 2.0
 
@@ -20,7 +20,7 @@ To build Marlin 2.0 you'll need [Building Marlin with PlatformIO for ReArm](http
 
 ## Credits
 
-This fork of Marlin firmware is manteined by Miguel Risco-Castillo [[@mriscoc](https://github.com/mriscoc)] - Peru
+This fork of Marlin firmware is mantained by Miguel Risco-Castillo [[@mriscoc](https://github.com/mriscoc)] - Peru
 
 The current Marlin dev team consists of:
 
